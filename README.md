@@ -1,13 +1,6 @@
 Amazon Sales Data Analysis
 
-"Python" (https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
-"Pandas" (https://img.shields.io/badge/Pandas-Data%20Processing-orange?logo=pandas)
-"NumPy" (https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-Visualization-green)
-"Seaborn" (https://img.shields.io/badge/Seaborn-Statistical%20Visualization-purple)
-
----
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Overview
 
 This project explores an Amazon sales dataset using Python.
@@ -16,7 +9,7 @@ The main purpose of the analysis is to understand sales patterns, product demand
 The dataset contains information about orders, product categories, sales amount, shipping locations, and order fulfilment.
 By analyzing this data, we can identify trends and generate useful business insights.
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Objectives
 
@@ -28,7 +21,7 @@ The main objectives of this analysis are:
 - Study order fulfilment patterns
 - Generate insights from sales data
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tools Used
 
@@ -43,7 +36,7 @@ The following tools were used in this project:
 
 These tools were used for data cleaning, analysis, and visualization.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data Cleaning
 
@@ -59,7 +52,7 @@ Cleaning steps included:
 
 These steps ensure that the dataset is ready for analysis.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Analysis Performed
 
@@ -85,7 +78,7 @@ City-wise Sales
 
 City level analysis was used to identify cities with the highest sales.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Insights
 
@@ -97,7 +90,7 @@ From the analysis, several useful insights were identified:
 - Major metropolitan cities contribute the largest portion of revenue.
 - Amazon fulfilled orders represent a large share of order deliveries.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dataset
 
@@ -111,7 +104,7 @@ To run this project:
 2. Place the file Amazon Sale Report.csv in the project folder
 3. Run the notebook to reproduce the analysis
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Structure
 
@@ -120,7 +113,7 @@ amazon-sales-data-analysis
 ├── amazon_sales_analysis.ipynb
 └── README.md
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Conclusion
 
